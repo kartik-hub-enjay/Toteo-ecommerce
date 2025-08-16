@@ -29,7 +29,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%" alt="Home Page"/>
+  <img src="screenshots/login.png" width="45%" alt="Home Page"/>
   <img src="screenshots/shop.png" width="45%" alt="Shop Page"/>
   <img src="screenshots/cart.png" width="45%" alt="Cart Page"/>
   <img src="screenshots/admin.png" width="45%" alt="Admin Panel"/>
