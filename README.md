@@ -54,7 +54,6 @@
 - **Middleware**: Multer (file uploads), express-session, connect-flash  
 
 --- 
-
+=======
 <p align="center"> <i>Made with ❤️ by <a href="https://github.com/kartik-hub-enjay">Kartik Pareek</a></i> </p>
-
-
+>>>>>>> 2178e55 (screenshots)
